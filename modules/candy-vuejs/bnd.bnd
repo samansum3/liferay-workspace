@@ -1,5 +1,5 @@
 Bundle-Name: candy-vuejs
-Bundle-SymbolicName: com.candy
+Bundle-SymbolicName: com.candy.docs
 Bundle-Version: 1.0.0
-Export-Package: com.candy.constants
+Export-Package: com.candy.docs.constants
 Web-ContextPath: /candy-vuejs
