@@ -1,0 +1,5 @@
+Bundle-Name: choco-vuejs
+Bundle-SymbolicName: com.choco
+Bundle-Version: 1.0.0
+Export-Package: com.choco.constants
+Web-ContextPath: /choco-vuejs
